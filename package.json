@@ -14,7 +14,8 @@
     "react-native": "0.81.5",
     "expo-location": "~19.0.8",
     "expo-battery": "~10.0.8",
-    "expo-task-manager": "~14.0.9"
+    "expo-task-manager": "~14.0.9",
+    "vexo-analytics": "1.5.7"
   },
   "private": true
 }
