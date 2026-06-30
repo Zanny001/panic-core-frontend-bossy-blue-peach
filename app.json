@@ -45,6 +45,11 @@
           "locationAlwaysPermission": "Allow CampusGuard to protect your location parameters silently in the background."
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "fd5c2b39-8be7-4d76-b605-f6d2f33b5c30"
+      }
+    }
   }
 }
